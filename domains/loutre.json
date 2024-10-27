@@ -1,11 +1,13 @@
- 
-    {
-      "owner": {
+{
+    "description": "Personal portfolio",
+    "repo": "https://github.com/loutrinesk/Portfolio",
+    "owner": {
         "username": "loutrinesk",
-        "email": "zelo.dev@my.com"
-      },
-      "record": {
-        "CNAME": "seksy-nig.ga"
-      }
+        "email": "loutrinesk@gmail.com",
+    },
+    "record": {
+        "A": [
+            "75.2.60.5"
+        ]
     }
-      
+}
